@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "TalabatFarshut",
+    "slug": "talabat-farshut",
+    "android": {
+      "package": "com.hassan.talabatfarshut"
+    }
+  }
+}
