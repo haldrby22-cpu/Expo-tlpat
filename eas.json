@@ -8,7 +8,9 @@
       "distribution": "internal"
     },
     "production": {
-      "releaseChannel": "default"
+      "android": {
+        "buildType": "app-bundle"
+      }
     }
   }
 }
